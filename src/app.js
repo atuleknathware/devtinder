@@ -13,3 +13,6 @@ app.get("/test",(req,res)=>{
 app.listen(7777,()=>{
     console.log('your server is successfully establish on port 7777')
 })
+app.listen(7777,()=>{
+    console.log('your server is successfully establish on port 7777')
+})
